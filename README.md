@@ -1,2 +1,3 @@
-# yangmi-arc
-星火归档（历史版本/大包，不走CDN）
+# yangmi-arc 归档仓
+
+历史版本与大体积包归档，走 raw / gh-proxy 下载，不使用 jsDelivr。
